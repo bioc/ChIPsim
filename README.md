@@ -10,7 +10,7 @@ the package is designed to support different types of experiments.
 #  Installation
 Both the [development](http://bioconductor.org/packages/devel/bioc/html/ChIPseqR.html) and 
 [release](http://bioconductor.org/packages/release/bioc/html/ChIPseqR.html) version of this R package
-are available through [Bioconductor](http://bioconductor.org/). Use the *BiocInstaller* to install the
+are available through [Bioconductor](http://bioconductor.org/). Use the *BiocManager* to install the
 package and its dependencies from within R.
 
 ```r
